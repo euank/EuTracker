@@ -1,0 +1,19 @@
+{
+  "name": "EuTracker",
+  "version": "0.0.0",
+  "description": "",
+  "main": "lib/tracker.js",
+  "dependencies": {
+    "dht-bencode": "~0.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://git.euans.in/miniNodejsTracker"
+  },
+  "author": "EuanK",
+  "license": "MIT"
+}
